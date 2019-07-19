@@ -1,4 +1,6 @@
+ipykernel
 h5py
 numpy
 pandas
 matplotlib
+clint
