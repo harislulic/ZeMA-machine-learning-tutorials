@@ -2,5 +2,7 @@ ipykernel
 ipywidgets
 h5py
 numpy
+scipy
 pandas
 matplotlib
+sklearn
