@@ -6,3 +6,6 @@ scipy
 pandas
 matplotlib
 sklearn
+collections
+math
+statsmodels
