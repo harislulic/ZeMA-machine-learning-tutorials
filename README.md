@@ -10,4 +10,4 @@ Clone the repository to your local machine using instructions from [here](https:
 Anaconda and Python Installation
 ---
 If you don't have *Anaconda* installed already follow [this guide
-](https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda). Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science
+](https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda). Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
