@@ -6,6 +6,4 @@ scipy
 pandas
 matplotlib
 scikit-learn
-collections2
-math
 statsmodels
