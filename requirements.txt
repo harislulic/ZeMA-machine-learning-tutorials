@@ -5,7 +5,7 @@ numpy
 scipy
 pandas
 matplotlib
-sklearn
+scikit-learn
 collections
 math
 statsmodels
