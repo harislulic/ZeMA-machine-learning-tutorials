@@ -8,5 +8,3 @@ matplotlib
 scikit-learn
 statsmodels
 PyDynamic
-pip
-jupyter nbextension enable--py widgetsnbextension
