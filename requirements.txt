@@ -6,4 +6,6 @@ scipy
 pandas
 matplotlib
 scikit-learn
-statsmodels
+statsmodels                      
+requests
+PyDynamic
